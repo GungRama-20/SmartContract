@@ -1,5 +1,13 @@
 # SmartToken DApp 🚀
 
+|---------------------------------------|
+|Nama Kelompok              | Nim       |
+|---------------------------------------|
+|I Nyoman Ari Parwata       | 2301010002|
+|I Made Arya Widiana        | 2301010004|
+|Anak Agung Rama Dwi Saputra| 2301010021|
+|---------------------------------------|
+
 A full-stack **Decentralized Application (DApp)** featuring:
 - **SmartToken (SMT)** — ERC-20 token with built-in faucet
 - **Staking Contract** — Earn 5% APR on staked SMT
