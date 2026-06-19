@@ -1,10 +1,12 @@
 # SmartToken DApp 🚀
 
-👥 Data Kelompok
-No	Nama Anggota	NIM
-1	I Nyoman Ari Parwata	2301010002
-2	I Made Arya Widiana	2301010004
-3	Anak Agung Rama Dwi Saputra	2301010021
+## 👥 Anggota Kelompok
+
+| No | Nama                        | Nim            |
+| -- | --------------------------- | -------------- |
+| 1  | I Nyoman Ari Parwata        | 2301010002     |
+| 2  | I Made Arya Widiana         | 2301010004     |
+| 3  | Anak Agung Rama Dwi Saputra | 2301010021     |
 
 A full-stack **Decentralized Application (DApp)** featuring:
 - **SmartToken (SMT)** — ERC-20 token with built-in faucet
